@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rjturek/go-phrase-util-nonmod/rjtphrasenonmod"
+	"github.com/rjturek/go-phrase-util-nonmodule/rjtphrasenonmod"
 )
 
 var phrase1 = "But when night comes round, oh gosh, oh gee"
